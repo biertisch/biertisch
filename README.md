@@ -10,8 +10,8 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 ## Current Focus
 
 * Studying computer science at 42 Lisboa
-* Programming in C and Shell scripting
-* Learning C++
+* Programming in C
+* Learning C++ and Shell scripting
 * Exploring low-level programming and system-level concepts
 
 ---
