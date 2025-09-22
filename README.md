@@ -1,5 +1,7 @@
 ## Welcome
 
+> "There will always be things we wish to say in our programs that in all known languages can only be said poorly." — Alan J. Perlis
+
 Hi, I'm Beatriz.
 
 I'm a student at 42 Lisboa, transitioning from a background in philosophy research & teaching into software development.
