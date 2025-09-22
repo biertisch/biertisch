@@ -23,7 +23,7 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 
 ---
 ## Projects
-* [**minishell**](https://github.com/biertisch/minishell) - Command-line interpreter in C, emulating Bash (ongoing)
+* [**minishell**](https://github.com/biertisch/minishell) - Command-line interpreter in C emulating Bash (ongoing)
 * [**so_long**](https://github.com/biertisch/so_long) - Small 2D game in C with Minilibx
 * [**philosophers**](https://github.com/biertisch/philosophers) - Concurrency project exploring resource sharing and synchronization in C
 
