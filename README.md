@@ -36,6 +36,6 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 
 ---
 ## Background
-Before programming, I worked in philosophy research and teaching. I completed a PhD in Philosophy in 2025 with a thesis on the concept of the grotesque. I taught seminars in Philosophy of Art, 20th Century Continental Philosophy, and an introductory Philosophy module to medical students at King's College London.
+Before moving into programming, I worked in philosophy research and teaching. In 2025, I completed a PhD in Philosophy with a thesis on the concept of the grotesque. I taught seminars on Philosophy of Art, 20th-Century Continental Philosophy, and an introductory Philosophy course for medical students at King’s College London.
 
-That background trained me in **analytical problem-solving**, **structured reasoning**, and **clear communication**, which I now bring into my coding journey.
+This background strengthened my skills in **analytical problem-solving**, **structured reasoning**, and **clear communication** - abilities I now bring into my coding journey.
