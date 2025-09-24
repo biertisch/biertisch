@@ -12,7 +12,7 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 * Studying computer science at 42 Lisboa
 * Programming in C
 * Learning C++ and Shell scripting
-* Exploring low-level programming and system-level concepts
+* Exploring mid-level programming and system-level concepts
 
 ---
 ## Technical Skills
