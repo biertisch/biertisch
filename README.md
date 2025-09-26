@@ -11,14 +11,14 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 
 * Studying computer science at 42 Lisboa
 * Programming in C
-* Learning C++ and Shell scripting
+* Learning C++ and Bash scripting
 * Exploring mid-level programming and system-level concepts
 
 ---
 ## Technical Skills
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=programming&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=programming&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white) ![Valgrind](https://img.shields.io/badge/Valgrind-4E9A06?style=for-the-badge&logo=gnu&logoColor=white)
