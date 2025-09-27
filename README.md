@@ -42,6 +42,3 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 Before moving into programming, I worked in philosophy research and teaching. In 2025, I completed a PhD in Philosophy with a thesis on the concept of the grotesque. I taught seminars on Philosophy of Art, 20th-Century Continental Philosophy, and an introductory Philosophy course for medical students at King’s College London.
 
 This background strengthened my skills in **analytical problem-solving**, **structured reasoning**, and **clear communication** - abilities I now bring into my coding journey.
-
----
-<sub>Profile image: detail from *Satirical Diptych* (c. 1520), anonymous Flemish painter.</sub>
