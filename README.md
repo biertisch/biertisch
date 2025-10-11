@@ -10,9 +10,8 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 ## Current Focus
 
 * Studying computer science at 42 Lisboa
-* Programming in C
-* Learning C++ and Bash scripting
-* Exploring system-level concepts and OOP
+* Programming in C, learning C++ and Bash scripting
+* Exploring **systems programming**, **concurrency** and **OOP**
 
 ---
 ## Technical Skills
@@ -25,9 +24,10 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 
 ---
 ## Projects
-* [**minishell**](https://github.com/biertisch/minishell) - Command interpreter in C emulating Bash (ongoing)
-* [**so_long**](https://github.com/biertisch/so_long) - 2D game in C using MinilibX graphics
-* [**philosophers**](https://github.com/biertisch/philosophers) - Concurrency project exploring resource sharing and synchronization in C
+* [**minishell**](https://github.com/biertisch/minishell) - Bash-like command interpreter in **C** (work in progress)
+* [**philosophers**](https://github.com/biertisch/philosophers) - Concurrency project in **C** exploring resource sharing and synchronization
+* [**so_long**](https://github.com/biertisch/so_long) - 2D video game in **C** using MinilibX graphics
+* [**push_swap**](https://github.com/biertisch/push_swap) - Stack-based sorting algorithm in **C**
 
 ---
 ## GitHub Stats
@@ -38,6 +38,6 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 
 ---
 ## Background
-Before moving into programming, I worked in philosophy research and teaching. In 2025, I completed a PhD in Philosophy with a thesis on the concept of the grotesque. I taught seminars on Philosophy of Art, 20th-Century Continental Philosophy, and an introductory Philosophy course for medical students at King’s College London.
+Before moving into programming, I worked in philosophy research and teaching, completing a PhD on the concept of the grotesque and teaching seminars at King’s College London.
 
-This background strengthened my skills in **analytical problem-solving**, **structured reasoning**, and **clear communication** - abilities I now bring into my coding journey.
+This background strengthened my skills in **analytical problem-solving**, **structured reasoning**, and **clear communication** - abilities I now bring into coding.
