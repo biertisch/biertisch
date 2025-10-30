@@ -7,13 +7,6 @@ Hi, I'm Beatriz.
 I'm a student at 42 Lisboa, transitioning from a background in philosophy research & teaching into software development.
 
 ---
-## Current Focus
-
-* Studying **computer science** at 42 Lisboa
-* Programming in **C**, learning **C++** and **Bash scripting**
-* Exploring **systems programming**, **concurrency** and **OOP**
-
----
 ## Technical Skills
 
 ### Languages
