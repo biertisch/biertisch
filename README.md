@@ -17,7 +17,7 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 
 ---
 ## Projects
-* [**minishell**](https://github.com/biertisch/minishell) - Bash-like command interpreter in **C** (work in progress)
+* [**minishell**](https://github.com/biertisch/minishell) - Bash-like command interpreter in **C**
 * [**philosophers**](https://github.com/biertisch/philosophers) - Concurrency project in **C** exploring resource sharing and synchronization
 * [**so_long**](https://github.com/biertisch/so_long) - 2D video game in **C** using MinilibX graphics
 * [**push_swap**](https://github.com/biertisch/push_swap) - Stack-based sorting algorithm in **C**
