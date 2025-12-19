@@ -35,9 +35,7 @@ Concurrency project in **C** exploring mutexes and semaphores for resource synch
 
 ---
 ## Background
-Before moving into programming, I worked in philosophy research and teaching, completing a PhD on the concept of the grotesque and teaching seminars at King’s College London.
-
-This background strengthened my skills in **analytical problem-solving**, **structured reasoning**, and **clear communication** - abilities I now bring into coding.
+Before moving into programming, I worked in philosophy research and teaching, completing a PhD on the concept of the grotesque and teaching seminars at King’s College London. This background strengthened my skills in **analytical problem-solving**, **structured reasoning**, and **clear communication** - abilities I now bring into coding.
 
 My profile pic is a detail from Hieronymus Bosch's *Temptation of St. Anthony* (c. 1505-06), a work that inspired my research on the grotesque. Created over five centuries ago, it embodies qualities that I now hope may also inspire my journey into IT: **a sense of humour and wonder**, paired with a **daring capacity to imagine**.
 
