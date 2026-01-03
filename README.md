@@ -13,18 +13,21 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 C, C++, Bash
 
 ### Tools & Environment ###
-Git, Linux, Make, gdb, Valgrind, VirtualBox
+Git, Linux, Make, gdb, Valgrind
 
 ---
 ## Projects
 ### [minishell](https://github.com/biertisch/minishell) ###
-Bash-like command interpreter in **C** with command parsing, pipes, redirections, logical operators, Unix processes, and signal handling
+A Bash-like shell written in C, featuring command parsing, pipelines, redirections, logical operators, and process control.
+
+### [miniRT](https://github.com/biertisch/miniRT.git) ###
+A minimal ray tracer written in C using MiniLibX, featuring real-time scene interaction and a Phong lighting model.
 
 ### [philosophers](https://github.com/biertisch/philosophers) ###
-Concurrency project in **C** exploring mutexes and semaphores for resource synchronization
+A concurrent programming project in C solving the Dining Philosophers problem using threads, mutexes, processes, and semaphores.
 
 ### [so_long](https://github.com/biertisch/so_long) ###
-2D video game in **C** using MinilibX graphics
+A small 2D game written in C using MiniLibX, featuring map validation, event handling, and sprite-based animation.
 
 ---
 ## GitHub Stats
