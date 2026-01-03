@@ -10,7 +10,7 @@ I'm a student at 42 Lisboa, transitioning from a background in philosophy resear
 ## Technical Skills
 
 ### Programming Languages ###
-C, C++, Bash
+C, C++, Java, Bash
 
 ### Tools & Environment ###
 Git, Linux, Make, gdb, Valgrind
