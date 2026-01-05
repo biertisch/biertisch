@@ -18,7 +18,7 @@ Git, Linux, Make, gdb, Valgrind
 ---
 ## Projects
 ### [minishell](https://github.com/biertisch/minishell) ###
-A Bash-like shell written in C, featuring command parsing, pipelines, redirections, logical operators, and process control.
+A Bash-like shell written in C, featuring command parsing, pipelines, redirections, logical operators, environment and signal handling.
 
 ### [miniRT](https://github.com/biertisch/miniRT.git) ###
 A minimal ray tracer written in C using MiniLibX, featuring real-time scene interaction and a Phong lighting model.
