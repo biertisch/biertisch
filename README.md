@@ -32,9 +32,7 @@ A small 2D game written in C using MiniLibX, featuring map validation, event han
 ---
 ## GitHub Stats
 
-![GitHub stats](https://my-github-readme-stats-pi-neon.vercel.app/api?username=biertisch&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://my-github-readme-stats-pi-neon.vercel.app/api/top-langs/?username=biertisch&layout=compact&theme=tokyonight)
+![GitHub Activity](https://ghchart.rshah.org/biertisch)
 
 ---
 ## Background
