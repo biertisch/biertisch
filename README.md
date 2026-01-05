@@ -32,9 +32,9 @@ A small 2D game written in C using MiniLibX, featuring map validation, event han
 ---
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biertisch&layout=compact&theme=tokyonight)
+![Top Langs](https://uuphoria.github.io/github-readme-statsfork/top-langs/?username=biertisch&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=biertisch&show_icons=true&theme=tokyonight)
+![GitHub stats](https://uuphoria.github.io/github-readme-statsfork/api?username=biertisch&show_icons=true&theme=tokyonight)
 
 ---
 ## Background
